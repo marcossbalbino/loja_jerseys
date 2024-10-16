@@ -1,1 +1,1 @@
-#  https://marcossbalbino.github.io/loja_jerseys/
+# loja_jerseys
